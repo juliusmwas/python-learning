@@ -27,6 +27,7 @@ To learn Python from basics to building small real-world projects.
 
 ---
 
-## 🗂 Project Structure (comming soon)
+## 🗂 Project Structure (planned)
+
 
 
